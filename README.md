@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Siddhapura</h1>
 <h3 align="center">Software Development Engineer ┆ MS @Arizona State University ┆ 5K+ Followers @LinkedIn ┆ Mitacs GRI'21 @University of British Columbia ┆ GATE CS IT 2021 ┆ NISM Equity Derivatives Certified ┆ National Yoga Champion</h3>
 
+---
 
 <div align="center">
   <a href="https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2">
     <img src="https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2" alt="Visit Count">
   </a>
 </div>
-
-
-
----
 
 ## 💫 About Me:
 🔭 I’m currently working on:<br>Fullstack Web Development, Machine Learning, Artificial Intillegence, Cloud Computing, Microservices and various other cutting-edge technologies<br><br>👯 I’m looking to collaborate in:<br>Open-Source Projects and Startups<br>
