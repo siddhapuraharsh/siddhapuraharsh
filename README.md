@@ -2,7 +2,10 @@
 <h3 align="center">Software Development Engineer ┆ MS @Arizona State University ┆ 5K+ Followers @LinkedIn ┆ Mitacs GRI'21 @University of British Columbia ┆ GATE CS IT 2021 ┆ NISM Equity Derivatives Certified ┆ National Yoga Champion</h3>
 
 
-[![](https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2)](https://visitcount.itsvg.in)
+<div style="text-align: center;">
+    [![](https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2)](https://visitcount.itsvg.in)
+</div>
+
 ---
 
 ## 💫 About Me:
