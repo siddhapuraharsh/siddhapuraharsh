@@ -2,8 +2,10 @@
 <h3 align="center">Software Development Engineer ┆ MS @Arizona State University ┆ 5K+ Followers @LinkedIn ┆ Mitacs GRI'21 @University of British Columbia ┆ GATE CS IT 2021 ┆ NISM Equity Derivatives Certified ┆ National Yoga Champion</h3>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2">
-    <img src="https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2" alt="Visit Count">
+<!--   <a href="https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2"> -->
+    <a href="https://komarev.com/ghpvc/?username=siddhapuraharsh&label=Profile%20views&color=0e75b6&style=flat">
+<!--     <img src="https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2" alt="Visit Count"> -->
+    <img src="https://komarev.com/ghpvc/?username=siddhapuraharsh&label=Profile%20views&color=0e75b6&style=flat" alt="Visit Count" />
   </a>
 </div>
 
