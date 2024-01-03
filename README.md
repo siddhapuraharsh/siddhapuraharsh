@@ -6,7 +6,7 @@
     <a href="https://komarev.com/ghpvc/?username=siddhapuraharsh&label=Profile%20views&color=0e75b6&style=flat">
 <!--     <img src="https://visitcount.itsvg.in/api?id=siddhapuraharsh&icon=6&color=2" alt="Visit Count"> -->
 <!--     <img src="https://komarev.com/ghpvc/?username=siddhapuraharsh&label=Profile%20views&color=0e75b6&style=flat" alt="Visit Count" /> -->
-    <img src="https://komarev.com/ghpvc/?username=siddhapuraharsh&label=Profile%20views&icon=6&color=2&style=flat" alt="Visit Count" />
+    <img src="https://komarev.com/ghpvc/?username=siddhapuraharsh&label=Profile%20views&icon=6&color=0e75b6&style=flat" alt="Visit Count" />
   </a>
 </div>
 
