@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Siddhapura</h1>
-<h3 align="center">Software Development Engineer ┆ MS @Arizona State University ┆ 5K+ Followers @LinkedIn ┆ Mitacs GRI'21 @University of British Columbia ┆ GATE CS IT 2021 ┆ NISM Equity Derivatives Certified ┆ National Yoga Champion</h3>
+<h3 align="center">Software Development Engineer ┆ Master's @Arizona State University ┆ 7K+ Followers @LinkedIn ┆ Mitacs GRI'21 @University of British Columbia ┆ GATE CS IT 2021 ┆ NISM Equity Derivatives Certified ┆ National Yoga Champion</h3>
 
 <div align="center">
     <a href="https://komarev.com/ghpvc/?username=siddhapuraharsh&label=Profile%20views&color=0e75b6&style=flat">
